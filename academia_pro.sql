@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS academia_pro;
-CREATE DATABASE academia_pro;
-USE academia_pro;
+DROP DATABASE IF EXISTS academia;
+CREATE DATABASE academia;
+USE academia;
 
 CREATE TABLE planos (
     id INT AUTO_INCREMENT PRIMARY KEY,

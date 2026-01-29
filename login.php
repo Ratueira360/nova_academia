@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <button type="submit" class="btn-cta" style="width:100%; border:none; cursor:pointer;">ENTRAR</button>
         </form>
         <p style="text-align:center; margin-top:15px; color:#aaa;">
-            Ainda não tem conta? <a href="cadastro.php?plano=1" style="color:#00ff88;">Cadastre-se</a>
+            Ainda não possui conta? <a href="cadastro.php?plano=1" style="color:#00ff88;">Cadastre-se</a>
         </p>
     </div>
 </body>
